@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="monday">ponedjeljak</string>
+    <string name="tuesday">utorak</string>
+    <string name="wednesday">srijeda</string>
+    <string name="thursday">četvrtak</string>
+    <string name="friday">petak</string>
+    <string name="saturday">subota</string>
+    <string name="sunday">nedjelja</string>
+
+    <string name="sunny">sunčan</string>
+    <string name="mists">magle</string>
+    <string name="cloudy">oblačno</string>
+    <string name="no_information">bez podataka</string>
+    <string name="rain">kiša</string>
+</resources>
