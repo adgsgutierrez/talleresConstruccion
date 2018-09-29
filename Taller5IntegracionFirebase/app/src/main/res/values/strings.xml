@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Taller 5 IntegracionFirebase</string>
+    <string name="action_settings">Información</string>
+
+    <string name="information">Ejercicio desarrollado por Aric Gutierrez - 506162030</string>
+
+    <string name="titulo_coleccion_a">Colección A</string>
+    <string name="titulo_coleccion_b">Colección B</string>
+    <string name="titulo_coleccion_c">Colección C</string>
+
+    <string name="coleccion_a">Primera_Coleccion</string>
+    <string name="coleccion_b">Segunda_Coleccion</string>
+    <string name="coleccion_c">Tercera_Coleccion</string>
+
+    <string name="hint_input_text">Digita el mensaje a enviar </string>
+
+    <string name="save_button">Guardar Item</string>
+
+</resources>
